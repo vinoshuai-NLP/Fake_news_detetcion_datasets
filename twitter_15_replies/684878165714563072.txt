@@ -1,0 +1,5 @@
+@smashingmag  follow-up question: when will IE11 reach EOL? with EOL of win8.1?  @MicrosoftEdge
+@smashingmag  well, sort of true
+@smashingmag  On Windows Vista, IE9 is the latest available version and will be supported until April 11, 2017. https://support.microsoft.com/en-us/lifecycle#gp/Microsoft-Internet-Explorer… #IE9
+@smashingmag  finally!
+@smashingmag  This is only partially correct: IE9 is still supported because Vista.  IE8 and IE10 are fully dropped, though.

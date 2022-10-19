@@ -1,0 +1,23 @@
+@the_gadgeteur  @MacRumors  @julipuli  @stroughtonsmith  Both. The data is all stored in ~/Library/Mobile Documents.
+@the_gadgeteur  @MacRumors  @julipuli  @stroughtonsmith  ‘I have public beta of Yosemite so can't roll back via time machine’
+@julipuli  @stroughtonsmith  @MacRumors  You can still get it, but the Time Machine UI is completely broken in Yosemite. It’s still on the
+@julipuli  @stroughtonsmith  @MacRumors  disk.
+@julipuli  @stroughtonsmith  @MacRumors  grabbing a demonstration screenshot right now give me a second.
+@julipuli  @stroughtonsmith  It’s too long for a tweet, so I’ve made a CloudApp upload.  http://cl.ly/XmeW
+@julipuli  @stroughtonsmith
+“ @MacRumors : Bug in iOS 8's 'Reset All Settings' Option Also Erases iCloud Drive Documents http://macrumors.com/2014/09/29/reset-all-settings-icloud-drive-bug/… by  @julipuli ” #iOS8
+@julipuli  aye, def. a problem, just wanted to note that Time Machine does back it all up, just doesn’t allow easy access to the data.
+Muito bom. “ @MacRumors : Bug in iOS 8's 'Reset All Settings' Option Also Erases iCloud Drive Documents http://macrumors.com/2014/09/29/reset-all-settings-icloud-drive-bug/… by  @julipuli ”
+#headdesk RT  @MacRumors : Bug in iOS 8's 'Reset All Settings' Option Also Erases iCloud Drive Documents http://macrumors.com/2014/09/29/reset-all-settings-icloud-drive-bug/… by  @julipuli
+“ @MacRumors : Bug in iOS 8's 'Reset All Settings' Option Also Erases iCloud Drive Documents http://macrumors.com/2014/09/29/reset-all-settings-icloud-drive-bug/…” – a QA hová lett?
+@MacRumors  This is a major problem considering how many of us are wiping devices for trade-in programs. Sign out of iCloud before wiping.
+@MacRumors  @julipuli  bug: it also deletes some passwords (wifi etc.) on other iOS devices. After reset on iPad, iPhone forgot wifi passwords
+“ @MacRumors : Bug in iOS 8's 'Reset All Settings' Option Also Erases iCloud Drive Documents http://macrumors.com/2014/09/29/reset-all-settings-icloud-drive-bug/… by  @julipuli ”  @giorgiss
+@MacRumors  @julipuli  ouch, how do I clear my phone to sell now?
+@MacRumors  @julipuli  FFS apple needs to get its shit together
+“ @MacRumors : Bug in iOS 8's 'Reset All Settings' Option Also Erases iCloud Drive Documents http://macrumors.com/2014/09/29/reset-all-settings-icloud-drive-bug/… OMG!!
+@bri__m  this just keeps getting worse
+“ @MacRumors : Bug in iOS 8's 'Reset All Settings' Option Also Erases iCloud Drive Documents http://macrumors.com/2014/09/29/reset-all-settings-icloud-drive-bug/… by  @julipuli ” #facepalm
+@MacRumors  you can restore from time machine when using the public beta. I did it myself.
+@MacRumors  when will I be able to connect to my ford SYNC again?
+@MacRumors  this happened to me! & I only reset my iPad 2 settings because it was acting slow. Luckily everything backed up on iMac.
